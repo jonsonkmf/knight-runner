@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69d2d1c4d3ad1b54e912b9a996ef09d4, type: 3}
+  m_Name: Summer
+  m_EditorClassIdentifier: 
+  _skybox: {fileID: 2100000, guid: a93d27d74f0fb574f9bbb6a2dbc86e97, type: 2}
+  _road: {fileID: 2100000, guid: 75ddc2bf4b90db24e98dd051cf3fbcd3, type: 2}
+  _plane: {fileID: 2100000, guid: 05bd97aa21537ff46897216fb977c733, type: 2}
+  _rocks: {fileID: 2100000, guid: 8b8a8e03d4188114e8a2429fe0dfd9fe, type: 2}
+  _wood: {fileID: 2100000, guid: dd75101f3941ed54d93c934a6fee23c3, type: 2}
+  _castle: {fileID: 2100000, guid: efdc6ea8d87276a4996c3faf6863f488, type: 2}
+  _source: 3
+  _sky: {r: 0.15751565, g: 0.118879735, b: 0.06538385, a: 1}
+  _equator: {r: 0.51139194, g: 0.5894624, b: 0.6415094, a: 1}
+  _ground: {r: 0.01886791, g: 0.012726939, b: 0.0004449978, a: 1}
+  _ambientColor: {r: 0, g: 0, b: 0, a: 0}
+  _mountain: {r: 0.8666667, g: 0.5803922, b: 0.77254903, a: 0.5803922}

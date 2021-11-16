@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 22cdaddf12d0480b9b4a4e7ba0ac851b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _spline: {instanceID: 0}
+  - _splineMesh: {instanceID: 0}
+  - _environmentData: {instanceID: 0}
+  - _onEnvironmentUpdate: {fileID: 11400000, guid: 3c8b0b28872f60f45a5eb925bf5d631d, type: 2}
+  - _onEnemyKilled: {fileID: 11400000, guid: db988d535b7073c47a87b1f3e3d1edfc, type: 2}
+  - _onSuccessValueUpdated: {fileID: 11400000, guid: 3737772b3e203d140a321347c1166cec, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

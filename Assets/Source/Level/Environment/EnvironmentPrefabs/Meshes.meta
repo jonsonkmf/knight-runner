@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Source/Models/Materials/tree.mat.meta
+guid: 14ad789209058624f9550f15c271c483
+NativeFormatImporter:
+=======
+guid: e7dbf2ec202712b4eb96ab128eb6dca4
+folderAsset: yes
+DefaultImporter:
+>>>>>>> 15dd7c7e959051c8b0050e25447beb75fb1f214c:Assets/Source/Level/Environment/EnvironmentPrefabs/Meshes.meta
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

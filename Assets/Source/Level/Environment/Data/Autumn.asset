@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69d2d1c4d3ad1b54e912b9a996ef09d4, type: 3}
+  m_Name: Autumn
+  m_EditorClassIdentifier: 
+  _skybox: {fileID: 2100000, guid: d9a12ffaaa5dd67418211def4dfaee9a, type: 2}
+  _road: {fileID: 2100000, guid: 78b0452e00a649545b33e63b7e28a8c5, type: 2}
+  _plane: {fileID: 2100000, guid: e0dd76921bd677b45b40a32df236ff31, type: 2}
+  _rocks: {fileID: 2100000, guid: 6dfa14503c2983d46a5ab384b11d5c5f, type: 2}
+  _wood: {fileID: 2100000, guid: dda626f5b6b207e408cd94210cdd6e28, type: 2}
+  _castle: {fileID: 2100000, guid: e1eedf2d0192e9845a364dd93d0f6afc, type: 2}
+  _source: 3
+  _sky: {r: 1, g: 1, b: 1, a: 1}
+  _equator: {r: 0.51139194, g: 0.5894624, b: 0.6415094, a: 1}
+  _ground: {r: 0.01886791, g: 0.012726939, b: 0.0004449978, a: 1}
+  _ambientColor: {r: 1, g: 1, b: 1, a: 1}
+  _mountain: {r: 0.14901961, g: 0.72156864, b: 0.84313726, a: 0.94509804}
